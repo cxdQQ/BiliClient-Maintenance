@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="app/src/main/res/mipmap-hdpi/ic_launcher.png" alt="哔哩终端" width="128" height="128">
+  <img src="app/src/main/res/mipmap-hdpi/icon.png" alt="哔哩终端" width="128" height="128">
 </p>
 
 <h1 align="center">哔哩终端 / BiliTerminal</h1>
